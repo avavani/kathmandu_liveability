@@ -1,0 +1,1 @@
+This repository is the final project done for MUSA class "AI for Urban Sustainability." In this project, I used open source datasets to create an urban environmental and social vulnerability map for the city of Kathamndu.
