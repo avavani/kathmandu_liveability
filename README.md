@@ -1,5 +1,7 @@
 # Final Project Report: Urban Environmental and Social Vulnerability Mapping of Kathmandu
 
+## Project By: Avani Adhikari ##
+
 This project was developed as a final assignment for the "AI for Urban Sustainability" course. The primary objective is to assess and visualize the environmental and social vulnerabilities of Kathmandu, Nepal, by leveraging open-source datasets and geospatial AI techniques. The project was done in 4 parts:
 
 1. Using building footprint data from OpenStreetMap, a binary Random Forest Model was used to create the building footprint density of the city. 
