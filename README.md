@@ -10,4 +10,4 @@ This project was developed as a final assignment for the "AI for Urban Sustainab
 
 4. Finally, all of these datasets were normalized and combined with wealth distribution data from the 2021 Nepal census to create a vulnerability map. The final product of this can be seen below.
 
-![Kathmandu Social Vulnerability Map](images/vulnerability.png)
+![Kathmandu Social Vulnerability Map](images/vulnerabilitymap.png)
